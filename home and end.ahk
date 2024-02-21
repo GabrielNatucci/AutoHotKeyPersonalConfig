@@ -15,3 +15,4 @@ LControl & RAlt Up::AltGr := false
 	D::End
 	w::?
 	q::/
+	i::Insert
